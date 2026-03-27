@@ -6,13 +6,13 @@
 
 <div align="center">
   <a href="https://github.com/julializandrade">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=julializandrade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julializandrade&layout=compact&langs_count=8&theme=dracula"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=julializandrade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julializandrade&layout=compact&langs_count=8&theme=dracula"/>
   </a>
 </div>
 
 <div align="center">
-  <img height="150em" src="https://streak-stats.demolab.com?user=julializandrade&theme=dracula&hide_border=true"/>
+  <img height="190em" src="https://streak-stats.demolab.com?user=julializandrade&theme=dracula&hide_border=true"/>
 </div>
 
 <div style="display: inline_block"><br>
